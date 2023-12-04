@@ -13,7 +13,8 @@ Cette application offre une interface conviviale pour la gestion des villes et d
 - **Gestion des Hôtels :**
   - Ajout, modification, et suppression d'hôtels.
   - Affichage de la liste des hôtels par ville.
-  **Voir démo**https://github.com/karimaZr/gestion_ville/issues/1#issue-2024732807
+- **Voir démo**
+    [demo](https://github.com/karimaZr/gestion_ville/issues/1#issue-2024732807)
 
 ## Technologie Utilisée
 L'application est développée en utilisant Java EE et EJB pour une gestion efficace des transactions et une architecture robuste.
