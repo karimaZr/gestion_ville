@@ -13,6 +13,7 @@ Cette application offre une interface conviviale pour la gestion des villes et d
 - **Gestion des Hôtels :**
   - Ajout, modification, et suppression d'hôtels.
   - Affichage de la liste des hôtels par ville.
+  **Voir démo**
 
 ## Technologie Utilisée
 L'application est développée en utilisant Java EE et EJB pour une gestion efficace des transactions et une architecture robuste.
@@ -21,7 +22,7 @@ Cette application utilise une base de données relationnelle (par exemple, MySQL
 ## Comment Tester l'Application
 1-Clonez le dépôt.
 2-Configurez votre serveur d'application (WildFly, GlassFish, etc.).
-3-Déployez l'application sur votre serveur.
+3-Déployez l'application sur votre serveur en déployant le ear.
 4-Accédez à l'application via votre navigateur.
 
 
